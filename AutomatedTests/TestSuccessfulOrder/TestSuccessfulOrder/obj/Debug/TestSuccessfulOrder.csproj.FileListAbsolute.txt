@@ -1,0 +1,76 @@
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\TestSuccessfulOrder.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\TestSuccessfulOrder.pdb
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.Support.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.xml
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.Support.xml
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csproj.CoreCompileInputs.cache
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csproj.CopyComplete
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.dll
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.pdb
+C:\Users\Vasile\source\repos\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csprojAssemblyReference.cache
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\TestSuccessfulOrder.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\TestSuccessfulOrder.pdb
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\SeleniumExtras.PageObjects.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.Support.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.xml
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.Support.xml
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csprojAssemblyReference.cache
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csproj.CoreCompileInputs.cache
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csproj.CopyComplete
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\VasileTestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.pdb
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\TestSuccessfulOrder.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\TestSuccessfulOrder.pdb
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\SeleniumExtras.PageObjects.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.Support.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.xml
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.Support.xml
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csprojAssemblyReference.cache
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csproj.CoreCompileInputs.cache
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csproj.CopyComplete
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.dll
+E:\Facultate\An 3\Centric\ProiectCentricVASILE\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.pdb
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\TestSuccessfulOrder.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\TestSuccessfulOrder.pdb
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\SeleniumExtras.PageObjects.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.Support.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.xml
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\bin\Debug\WebDriver.Support.xml
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csprojAssemblyReference.cache
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csproj.CoreCompileInputs.cache
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.csproj.CopyComplete
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.dll
+E:\Facultate\An 3\Centric\Vasile_Proiect_Centric\AutomatedTests\TestSuccessfulOrder\TestSuccessfulOrder\obj\Debug\TestSuccessfulOrder.pdb

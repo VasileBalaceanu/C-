@@ -1,0 +1,302 @@
+{
+	"info": {
+		"_postman_id": "efed9397-2191-4ff8-8a60-d4bea5ebdee3",
+		"name": "RequestsSuite",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "VasileStorePlaceOrder",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 1s\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(1000);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 201123,\r\n  \"petId\": 14,\r\n  \"quantity\": 1,\r\n  \"shipDate\": \"2019-11-14T19:03:11.708Z\",\r\n  \"status\": \"placed\",\r\n  \"complete\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{VasileURL}}/store/order",
+					"host": [
+						"{{VasileURL}}"
+					],
+					"path": [
+						"store",
+						"order"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VasileStoreFindPurchaseByID",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{VasileURL}}/store/order/{{VasileMyorderID}}",
+					"host": [
+						"{{VasileURL}}"
+					],
+					"path": [
+						"store",
+						"order",
+						"{{VasileMyorderID}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VasileStoreDeleteOrderByID",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Order Found! Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{VasileURL}}/store/order/{{VasileMyorderID}}",
+					"host": [
+						"{{VasileURL}}"
+					],
+					"path": [
+						"store",
+						"order",
+						"{{VasileMyorderID}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VasileStoreInventory",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});\r",
+							"pm.test(\"Response time is less than 300ms\", function () {\r",
+							"    pm.expect(pm.response.responseTime).to.be.below(300);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{VasileURL}}/store/inventory",
+					"host": [
+						"{{VasileURL}}"
+					],
+					"path": [
+						"store",
+						"inventory"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VasileUserCreateListArray",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "[\r\n  {\r\n    \"id\": 0,\r\n    \"username\": \"VVIIVIIV\",\r\n    \"firstName\": \"Vasi\",\r\n    \"lastName\": \"Bala\",\r\n    \"email\": \"string@gmail.com\",\r\n    \"password\": \"password\",\r\n    \"phone\": \"0733888333\",\r\n    \"userStatus\": 1\r\n  }\r\n]",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{VasileURL}}/user/createWithArray",
+					"host": [
+						"{{VasileURL}}"
+					],
+					"path": [
+						"user",
+						"createWithArray"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VasileUserUpdate",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 0,\r\n  \"username\": \"new\",\r\n  \"firstName\": \"new\",\r\n  \"lastName\": \"new\",\r\n  \"email\": \"new\",\r\n  \"password\": \"new\",\r\n  \"phone\": \"new\",\r\n  \"userStatus\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{VasileURL}}/user/{{Vasiusername}}",
+					"host": [
+						"{{VasileURL}}"
+					],
+					"path": [
+						"user",
+						"{{Vasiusername}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VasileUserDelete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{VasileURL}}/user/{{Vasiusername}}",
+					"host": [
+						"{{VasileURL}}"
+					],
+					"path": [
+						"user",
+						"{{Vasiusername}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VasileUserCreateNew",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 19121,\r\n  \"username\": \"vasile\",\r\n  \"firstName\": \"newusercredential\",\r\n  \"lastName\": \"newusercredential\",\r\n  \"email\": \"newusercredential\",\r\n  \"password\": \"newusercredential\",\r\n  \"phone\": \"newusercredential\",\r\n  \"userStatus\": 1\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{VasileURL}}/user",
+					"host": [
+						"{{VasileURL}}"
+					],
+					"path": [
+						"user"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "VasilePetName",
+			"value": "Rockie"
+		},
+		{
+			"key": "VasilePetId",
+			"value": "112255"
+		},
+		{
+			"key": "VasileMyorderID",
+			"value": "7"
+		},
+		{
+			"key": "Vasiusername",
+			"value": "Vasile"
+		},
+		{
+			"key": "VasileURL",
+			"value": "https://petstore.swagger.io/v2"
+		}
+	]
+}
