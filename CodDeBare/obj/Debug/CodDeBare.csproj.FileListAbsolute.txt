@@ -1,0 +1,68 @@
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\CodDeBare.exe.config
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\CodDeBare.exe
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\CodDeBare.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\obj\Debug\CodDeBare.csprojAssemblyReference.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\obj\Debug\CodDeBare.Form1.resources
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\obj\Debug\CodDeBare.Properties.Resources.resources
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.GenerateResource.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.CoreCompileInputs.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\obj\Debug\CodDeBare.exe
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\obj\Debug\CodDeBare.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\zxing.dll
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\zxing.presentation.dll
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\zxing.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\zxing.xml
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\zxing.presentation.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\bin\Debug\zxing.presentation.xml
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.CopyComplete
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\CodDeBare.exe.config
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\CodDeBare.exe
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\CodDeBare.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\zxing.dll
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\zxing.presentation.dll
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\zxing.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\zxing.xml
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\zxing.presentation.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\bin\Debug\zxing.presentation.xml
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\obj\Debug\CodDeBare.csprojAssemblyReference.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\obj\Debug\CodDeBare.Form1.resources
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\obj\Debug\CodDeBare.Properties.Resources.resources
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.GenerateResource.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.CoreCompileInputs.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.CopyComplete
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\obj\Debug\CodDeBare.exe
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24.CodDeBare\CodDeBare\obj\Debug\CodDeBare.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\CodDeBare.exe.config
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\CodDeBare.exe
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\CodDeBare.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\zxing.dll
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\zxing.presentation.dll
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\zxing.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\zxing.xml
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\zxing.presentation.pdb
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\bin\Debug\zxing.presentation.xml
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.csprojAssemblyReference.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.Form1.resources
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.Properties.Resources.resources
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.GenerateResource.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.CoreCompileInputs.cache
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.CopyComplete
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.exe
+E:\Facultate\An 2\Sem 2\POO\Teme Examen\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.pdb
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\CodDeBare.exe.config
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\CodDeBare.exe
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\CodDeBare.pdb
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\zxing.dll
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\zxing.presentation.dll
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\zxing.pdb
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\zxing.xml
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\zxing.presentation.pdb
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\bin\Debug\zxing.presentation.xml
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.AssemblyReference.cache
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.Form1.resources
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.Properties.Resources.resources
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.GenerateResource.cache
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.CoreCompileInputs.cache
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.csproj.CopyComplete
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.exe
+D:\Facultate - licenta\An 2\Sem 2\POO\Teme Examen\Trecute\24. CodDeBare\CodDeBare\obj\Debug\CodDeBare.pdb
